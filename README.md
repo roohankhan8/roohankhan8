@@ -1,23 +1,30 @@
+<div align="center">
+
 # Hi, I'm Roohan Khan 👋
 
 ### Backend Developer | PHP & Laravel Developer
 
-I am a backend-focused developer passionate about building scalable web applications, RESTful APIs, authentication systems, payment integrations, and database-driven solutions.
+I build backend applications, REST APIs, authentication systems, payment integrations, and database-driven applications.
 
-Currently focused on improving my skills in **backend architecture, NestJS, system design, and clean software development practices**.
+[![GitHub](https://img.shields.io/badge/GitHub-roohankhan8-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan8)
+[![Work GitHub](https://img.shields.io/badge/Work%20GitHub-roohankhan--klabs-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan-klabs)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently building backend applications and RESTful APIs
-* 🌱 Currently learning **NestJS, backend architecture, and system design**
-* 💻 Primary focus: **PHP and Laravel**
-* 🔐 Experienced with authentication and authorization using **Laravel Sanctum and JWT**
-* 💳 Working with payment gateway integrations
-* 🗄️ Experience with relational databases including **MySQL and PostgreSQL**
-* 📱 Experience building APIs consumed by **React and Flutter applications**
-* 📊 Also interested in **data analysis and machine learning**
+I am a backend-focused developer with a primary interest in building scalable and maintainable web applications.
+
+* 🔧 Specializing in **PHP and Laravel**
+* 🌐 Building **RESTful APIs and backend systems**
+* 🔐 Working with **authentication and authorization**
+* 💳 Integrating **payment gateways**
+* 🗄️ Designing applications with **MySQL and PostgreSQL**
+* 📱 Building APIs for **web and Flutter applications**
+* 🏗️ Learning **NestJS, modern backend architecture, system design, and software engineering practices**
+* 🤖 Exploring modern development workflows and AI-assisted software development
 
 ---
 
@@ -27,15 +34,8 @@ Currently focused on improving my skills in **backend architecture, NestJS, syst
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Databases
 
@@ -43,141 +43,156 @@ Currently focused on improving my skills in **backend architecture, NestJS, syst
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Mobile & Other Technologies
+### Frontend & Mobile
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Tools & Development
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
+### 🏢 BER Portal
 
-A full-featured e-commerce system with backend APIs and mobile/web integration.
+A modern web application project built around a Laravel backend with a React-based frontend.
 
-**Key Features:**
+**Focus areas:**
 
-* User authentication
-* Product and category management
-* Shopping cart
-* Checkout system
-* Order management
+* Laravel backend development
+* API architecture
+* PostgreSQL
+* Admin functionality
+* Application modernization
+
+🔗 [View Repository](https://github.com/roohankhan8/theberproject)
+
+---
+
+### 💳 Practice App
+
+A Laravel application focused on backend development and payment integration.
+
+**Focus areas:**
+
+* Laravel
+* REST APIs
+* Authentication
+* Checkout and order processing
 * Payment gateway integration
-* Address management
-* Admin dashboard
-* RESTful API
 
-**Tech Stack:** Laravel · PHP · MySQL/PostgreSQL · Sanctum
-
-[View Repository](YOUR_ECOMMERCE_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/roohankhan-klabs/practice-app)
 
 ---
 
-### 🔐 NestJS Authentication API
+### 🤖 Larvis Agent
 
-A backend authentication system built while learning NestJS.
+An experimental TypeScript project exploring modern application development and agent-based systems.
 
-**Key Features:**
-
-* User registration
-* User login
-* JWT authentication
-* Protected routes
-* Current user endpoint (`/me`)
-* API documentation with Swagger
-
-**Tech Stack:** NestJS · TypeScript · JWT · Swagger
-
-[View Repository](YOUR_NESTJS_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/roohankhan8/larvis-agent)
 
 ---
 
-### 💳 Payment Gateway Integration
+### 📊 Index Fund Analysis
 
-Payment integration for an e-commerce checkout system.
+A Python-based project focused on financial and data analysis.
 
-**Key Features:**
+**Focus areas:**
 
-* Single payment for complete checkout
-* Secure payment initialization
-* Payment status tracking
-* Success and failure handling
-* Webhook verification
-* Sandbox testing
+* Python
+* Data analysis
+* Financial data
+* Jupyter Notebook
 
-**Tech Stack:** Laravel · PHP · REST API · Webhooks
-
-[View Repository](YOUR_PAYMENT_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/roohankhan8/indexfund)
 
 ---
 
-### 📱 Flutter E-Commerce Application
+## 📚 What I'm Currently Learning
 
-A mobile application that consumes backend APIs.
-
-**Key Features:**
-
-* Product browsing
-* Categories and subcategories
-* Banners and promotions
-* Shopping cart
-* Bottom navigation
-* API integration
-
-**Tech Stack:** Flutter · Dart · REST API
-
-[View Repository](YOUR_FLUTTER_REPOSITORY_LINK)
+```text
+→ NestJS and Node.js backend development
+→ System design and software architecture
+→ Clean Architecture
+→ SOLID and GRASP principles
+→ API design and backend scalability
+→ Advanced Laravel ecosystem
+→ AI-assisted development workflows
+```
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Development Philosophy
 
-* NestJS
-* System Design
-* Clean Architecture
-* Design Patterns
-* SOLID Principles
-* Software Architecture
-* Scalable Backend Development
-* API Security
+> Build for clarity first.
+> Optimize for scalability when the requirements justify it.
+> Write code that the next developer can understand.
 
----
+I am particularly interested in:
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-    alt="Roohan's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
-    alt="Roohan's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+* Clean and maintainable backend architecture
+* Scalable REST APIs
+* Authentication and authorization
+* Payment systems
+* Database design
+* System design
+* Software engineering principles
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_GITHUB_PROFILE_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=roohankhan8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=roohankhan8&theme=transparent&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohankhan8&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Focused on building reliable, scalable, and maintainable software.</i>
-</p>
+## 🧭 GitHub Accounts
+
+### Personal Account
+
+My personal GitHub contains learning projects, experiments, open-source work, and portfolio projects.
+
+🔗 **[@roohankhan8](https://github.com/roohankhan8)**
+
+### Work Account
+
+My work account contains professional and development projects created separately from my personal portfolio.
+
+🔗 **[@roohankhan-klabs](https://github.com/roohankhan-klabs)**
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and follow my development journey.
+
+[![GitHub](https://img.shields.io/badge/Personal%20GitHub-roohankhan8-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan8)
+[![GitHub](https://img.shields.io/badge/Work%20GitHub-roohankhan--klabs-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan-klabs)
+
+---
+
+<div align="center">
+
+### Backend-focused developer. Always learning. Always building.
+
+</div>
