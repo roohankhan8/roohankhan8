@@ -6,7 +6,7 @@
 
 I build maintainable backend systems, REST APIs, authentication flows, payment integrations, and data-driven applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-235789?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/roohankhan8/portfolio-roohan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-235789?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/roohankhan8/portfolio-roohan](https://portfolio-roohan.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roohan-khan8/)
 [![Email](https://img.shields.io/badge/Email-C1292E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roohank8@gmail.com)
 
