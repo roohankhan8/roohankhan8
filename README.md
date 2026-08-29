@@ -1,198 +1,124 @@
 <div align="center">
 
-# Hi, I'm Roohan Khan 👋
+# Roohan Khan
 
-### Backend Developer | PHP & Laravel Developer
+### Backend Developer · PHP / Laravel · API & Systems Engineering
 
-I build backend applications, REST APIs, authentication systems, payment integrations, and database-driven applications.
+I build maintainable backend systems, REST APIs, authentication flows, payment integrations, and data-driven applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-roohankhan8-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan8)
-[![Work GitHub](https://img.shields.io/badge/Work%20GitHub-roohankhan--klabs-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan-klabs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-235789?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/roohankhan8/portfolio-roohan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roohan-khan8/)
+[![Email](https://img.shields.io/badge/Email-C1292E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roohank8@gmail.com)
 
 </div>
 
----
+## About me
 
-## 👨‍💻 About Me
+I'm a backend-focused developer from Karachi, Pakistan, working primarily with **PHP and Laravel**. I enjoy turning business requirements into clear domain models, reliable APIs, and maintainable application architecture.
 
-I am a backend-focused developer with a primary interest in building scalable and maintainable web applications.
+My recent work and learning span:
 
-* 🔧 Specializing in **PHP and Laravel**
-* 🌐 Building **RESTful APIs and backend systems**
-* 🔐 Working with **authentication and authorization**
-* 💳 Integrating **payment gateways**
-* 🗄️ Designing applications with **MySQL and PostgreSQL**
-* 📱 Building APIs for **web and Flutter applications**
-* 🏗️ Learning **NestJS, modern backend architecture, system design, and software engineering practices**
-* 🤖 Exploring modern development workflows and AI-assisted software development
+- REST API design, authentication, authorization, and database modeling
+- Checkout flows and Pakistani payment-gateway integrations
+- Laravel applications with React, Inertia, and modern admin tooling
+- PostgreSQL, MySQL, queues, testing, and API documentation
+- Flutter clients backed by Laravel APIs
+- Financial data analysis, portfolio research, and applied machine learning
+- Agent-assisted engineering workflows and modern backend architecture
 
----
+## Core stack
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td><strong>Backend</strong></td>
+<td>PHP · Laravel · Node.js · NestJS · Python · Django · ASP.NET Core</td>
+</tr>
+<tr>
+<td><strong>Data</strong></td>
+<td>PostgreSQL · MySQL · SQL Server · MongoDB · Pandas · scikit-learn</td>
+</tr>
+<tr>
+<td><strong>Frontend & Mobile</strong></td>
+<td>TypeScript · React · Next.js · Inertia.js · Tailwind CSS · Flutter</td>
+</tr>
+<tr>
+<td><strong>Engineering</strong></td>
+<td>REST APIs · Sanctum · Swagger / OpenAPI · Git · GitHub · Postman · Docker</td>
+</tr>
+</table>
 
-### Backend
+## Featured work
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+### [Index Fund Research](https://github.com/roohankhan8/indexfund)
 
-### Databases
+A computational-finance research project covering financial-data preparation, forecasting, risk analysis, and portfolio optimization.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+**Python · Pandas · NumPy · scikit-learn · XGBoost · TensorFlow · PyPortfolioOpt**
 
-### Frontend & Mobile
+### [SOA Data Cleaning & Reporting](https://github.com/roohankhan8/soa)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+A reproducible data-processing and reporting pipeline for cargo, equipment-failure, interruption, and workforce datasets. It standardizes raw data, produces domain-specific analysis, and generates visual and PDF reporting artifacts.
 
-### Tools & Development
+**Python · Jupyter · Pandas · NumPy · Matplotlib**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+### [BER Laravel](https://github.com/roohankhan8/ber_laravel)
 
----
+A Laravel-based modernization project focused on backend structure, database-driven workflows, and a foundation for maintainable portal development.
 
-## 🚀 Featured Projects
+**PHP 8.2+ · Laravel 12 · Eloquent · PHPUnit · Vite**
 
-### 🏢 BER Portal
+### [Larvis Agent](https://github.com/roohankhan8/larvis-agent)
 
-A modern web application project built around a Laravel backend with a React-based frontend.
+An experiment in agent-oriented application development using a modern Laravel, Inertia, React, and TypeScript stack.
 
-**Focus areas:**
+**Laravel · Inertia.js · React 19 · TypeScript · Tailwind CSS · Vite**
 
-* Laravel backend development
-* API architecture
-* PostgreSQL
-* Admin functionality
-* Application modernization
+### [Portfolio](https://github.com/roohankhan8/portfolio-roohan)
 
-🔗 [View Repository](https://github.com/roohankhan8/theberproject)
+My personal developer portfolio, built as a tested modern web application rather than a static résumé page.
 
----
+**Next.js 16 · React 19 · TypeScript · Tailwind CSS · Vitest**
 
-### 💳 Practice App
-
-A Laravel application focused on backend development and payment integration.
-
-**Focus areas:**
-
-* Laravel
-* REST APIs
-* Authentication
-* Checkout and order processing
-* Payment gateway integration
-
-🔗 [View Repository](https://github.com/roohankhan-klabs/practice-app)
-
----
-
-### 🤖 Larvis Agent
-
-An experimental TypeScript project exploring modern application development and agent-based systems.
-
-🔗 [View Repository](https://github.com/roohankhan8/larvis-agent)
-
----
-
-### 📊 Index Fund Analysis
-
-A Python-based project focused on financial and data analysis.
-
-**Focus areas:**
-
-* Python
-* Data analysis
-* Financial data
-* Jupyter Notebook
-
-🔗 [View Repository](https://github.com/roohankhan8/indexfund)
-
----
-
-## 📚 What I'm Currently Learning
+## What I care about
 
 ```text
-→ NestJS and Node.js backend development
-→ System design and software architecture
-→ Clean Architecture
-→ SOLID and GRASP principles
-→ API design and backend scalability
-→ Advanced Laravel ecosystem
-→ AI-assisted development workflows
+Clear domain boundaries        Predictable API contracts
+Secure authentication          Correct payment workflows
+Useful tests                   Database integrity
+Readable code                  Pragmatic architecture
 ```
 
----
+I prefer simple designs with explicit responsibilities. I apply patterns when they reduce coupling or clarify the domain—not merely to make a codebase look sophisticated.
 
-## 🧠 Development Philosophy
+## Currently deepening
 
-> Build for clarity first.
-> Optimize for scalability when the requirements justify it.
-> Write code that the next developer can understand.
+- Laravel architecture, queues, events, policies, and automated testing
+- System design, clean architecture, SOLID, and GRASP
+- NestJS and event-driven backend development
+- Observability, containerization, CI/CD, and production deployment
+- AI-assisted development with strong review and verification practices
 
-I am particularly interested in:
-
-* Clean and maintainable backend architecture
-* Scalable REST APIs
-* Authentication and authorization
-* Payment systems
-* Database design
-* System design
-* Software engineering principles
-
----
-
-## 📊 GitHub Statistics
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roohankhan8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=roohankhan8&theme=transparent&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=roohankhan8&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Roohan's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohankhan8&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
 
 </div>
 
-<div align="center">
+> Language statistics reflect repository contents, not proficiency.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohankhan8&layout=compact&theme=transparent&hide_border=true" />
+## Connect
 
-</div>
-
----
-
-## 🧭 GitHub Accounts
-
-### Personal Account
-
-My personal GitHub contains learning projects, experiments, open-source work, and portfolio projects.
-
-🔗 **[@roohankhan8](https://github.com/roohankhan8)**
-
-### Work Account
-
-My work account contains professional and development projects created separately from my personal portfolio.
-
-🔗 **[@roohankhan-klabs](https://github.com/roohankhan-klabs)**
-
----
-
-## 🤝 Let's Connect
-
-Feel free to explore my repositories and follow my development journey.
-
-[![GitHub](https://img.shields.io/badge/Personal%20GitHub-roohankhan8-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan8)
-[![GitHub](https://img.shields.io/badge/Work%20GitHub-roohankhan--klabs-181717?style=for-the-badge\&logo=github)](https://github.com/roohankhan-klabs)
-
----
+- Portfolio: [github.com/roohankhan8/portfolio-roohan](https://github.com/roohankhan8/portfolio-roohan)
+- LinkedIn: [linkedin.com/in/roohan-khan8](https://www.linkedin.com/in/roohan-khan8/)
+- Personal GitHub: [@roohankhan8](https://github.com/roohankhan8)
+- Work GitHub: [@roohankhan-klabs](https://github.com/roohankhan-klabs)
+- Email: [roohank8@gmail.com](mailto:roohank8@gmail.com)
 
 <div align="center">
 
-### Backend-focused developer. Always learning. Always building.
+### Building reliable backends, one well-defined boundary at a time.
 
 </div>
