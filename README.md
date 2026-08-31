@@ -102,8 +102,8 @@ I prefer simple designs with explicit responsibilities. I apply patterns when th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=roohankhan8&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Roohan's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohankhan8&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roohankhan8&theme=transparent" alt="Roohan's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roohankhan8&theme=transparent" alt="Most used languages by repository" />
 
 </div>
 
